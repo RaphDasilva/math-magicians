@@ -31,10 +31,11 @@
   margin: 0 auto;
   display: flex;
   flex-direction: row;
+
   /* justify-content: space-between; */
 }
 
-.keys [type = "button"] {
+.keys [type="button"] {
   width: 25%;
   padding: 4% 10%;
   font-size: 10px;

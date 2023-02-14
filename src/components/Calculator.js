@@ -3,7 +3,7 @@ import React from 'react';
 const Calculator = () => (
   <div className="calculator">
     <div className="display">
-      <div />
+      <p>0</p>
     </div>
     <div className="keys">
       <button type="button">AC</button>
@@ -30,7 +30,7 @@ const Calculator = () => (
       <button type="button" className="act">+</button>
     </div>
     <div className="keys">
-      <button type="button" className="zero">0</button>
+      <button type="submit" className="zero">0</button>
       <button type="button" className="dot">.</button>
       <button type="button" className="dot act">=</button>
     </div>
