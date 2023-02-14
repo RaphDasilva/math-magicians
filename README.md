@@ -1,4 +1,4 @@
-# To-do-list
+# Math magicians
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -90,7 +90,7 @@ Read a random math-related quote.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](#)
+- [Coming soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
