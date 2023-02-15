@@ -73,8 +73,6 @@ Read a random math-related quote.
 
  ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Responsive]**
 - **[Dynamic-Pages]**
 -  **[Add and Remove to do list]**
@@ -86,8 +84,6 @@ Read a random math-related quote.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Coming soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,8 +91,6 @@ Read a random math-related quote.
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -168,8 +162,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Raphael Okolo**
 
 - GitHub: [@githubhandle](https://github.com/RaphDasilva)
@@ -202,7 +194,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -211,8 +202,6 @@ If you like this project...
  ACKNOWLEDGEMENTS
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a> -->
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microvers.
 
