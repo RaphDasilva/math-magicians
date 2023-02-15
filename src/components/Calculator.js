@@ -38,7 +38,7 @@ class Calculator extends React.Component {
           <button type="button" onClick={this.btnClicked}>7</button>
           <button type="button" onClick={this.btnClicked}>8</button>
           <button type="button" onClick={this.btnClicked}>9</button>
-          <button type="button" className="act" onClick={this.btnClicked}>X</button>
+          <button type="button" className="act" onClick={this.btnClicked}>x</button>
         </div>
         <div className="keys">
           <button type="button" onClick={this.btnClicked}>6</button>
