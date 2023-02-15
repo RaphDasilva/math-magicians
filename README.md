@@ -29,8 +29,6 @@
 
 # 📖 [To-do-list] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Math magicians]**  "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 Make simple calculations.
