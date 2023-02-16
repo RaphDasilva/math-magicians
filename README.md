@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To-do-list] <a name="about-project"></a>
+# 📖 [Math magicians] <a name="about-project"></a>
 
 **[Math magicians]**  "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
@@ -105,7 +105,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-1. Go to the [repository page](https://github.com/RaphDasilva/To-do-list).
+1. Go to the [repository page](https://github.com/RaphDasilva/Math magicians).
 2. Press the "Code" button and copy the link.
 3. Clone it using git command `git clone <link>`.
 
