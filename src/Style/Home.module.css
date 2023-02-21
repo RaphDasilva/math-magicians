@@ -1,0 +1,17 @@
+.div {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.div h2 {
+  text-align: center;
+  color: #83c5be;
+}
+
+.div p {
+  color: #83c5be;
+}
