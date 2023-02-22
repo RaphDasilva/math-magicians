@@ -13,9 +13,8 @@ test('contains -William Paul Thurston', () => {
 
 test('Contain button element', () => {
   render(<Calculator />);
-  const buttonElement = screen.getByRole("button", {
-    name: "AC"
-  })
+  const buttonElement = screen.getByRole('button', {
+    name: 'AC',
+  });
   expect(buttonElement).toBeInTheDocument();
-})
-
+});

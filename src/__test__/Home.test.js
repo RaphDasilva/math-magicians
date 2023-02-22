@@ -11,10 +11,10 @@ test('renders Welcome to our page!', () => {
 });
 
 test('Render Heading tag', () => {
-    render(<Home />)
-    const headTag = screen.getByRole('heading', {level: 2});
-    expect(headTag).toBeInTheDocument();
-})
+  render(<Home />);
+  const headTag = screen.getByRole('heading', { level: 2 });
+  expect(headTag).toBeInTheDocument();
+});
 
 test('expect home component to match snapshot', () => {
   const view = renderer.create(<Home />).toJSON();
