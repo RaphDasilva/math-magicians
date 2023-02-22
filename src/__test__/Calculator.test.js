@@ -23,6 +23,6 @@ test('renders Ac in the UI', () => {
 
 test('renders Ac in the UI', () => {
   render(<Calculator />);
-  const linkElement = screen.getByText("7");
+  const linkElement = screen.getByText('7');
   expect(linkElement).toBeInTheDocument();
 });
