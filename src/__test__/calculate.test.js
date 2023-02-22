@@ -30,9 +30,16 @@ describe('testing calculate function', () => {
 
   test('when the button is . ', () => {
     const buttonName = '.';
-    const obj = { ...object, next: '0.985' };
+    const obj = { ...object, next: '0.585' };
     const result = calculate(obj, buttonName);
     expect(result).toEqual({ ...obj });
+  });
+
+  test('when the button is = ', () => {
+    const buttonName = '=';
+    const obj = { total: '5050', next: '0505', operation: '-' };
+    const result = calculate(obj, buttonName);
+    expect(result).toEqual({ ...object, total: '4545' });
   });
 
   test('when the button is = ', () => {
