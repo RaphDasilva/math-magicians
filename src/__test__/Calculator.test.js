@@ -1,6 +1,6 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import { render, screen } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import Calculator from '../components/Calculator';
 import '@testing-library/jest-dom';
 
@@ -25,4 +25,11 @@ test('renders Ac in the UI', () => {
   render(<Calculator />);
   const linkElement = screen.getByText('7');
   expect(linkElement).toBeInTheDocument();
+});
+
+test('should update the state when a button is clicked', () => {
+  const { getByText } = render(<Calculator />);
+  const button = getByText('7');
+  fireEvent.click(button);
+  expect(getByText('7')).toBeInTheDocument();
 });
