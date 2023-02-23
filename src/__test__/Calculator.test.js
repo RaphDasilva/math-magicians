@@ -27,7 +27,7 @@ test('renders Ac in the UI', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-test('should update the state when a button is clicked', () => {
+test('should update the state when a button is been clicked', () => {
   const { getByText } = render(<Calculator />);
   const button = getByText('7');
   fireEvent.click(button);
